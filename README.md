@@ -1,4 +1,4 @@
-#### Study Material Repository
+# Study Material Repository
 
 A simple web-based study material repository where users can upload and download study materials.
 

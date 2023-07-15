@@ -1,8 +1,8 @@
-**README.md - Study Material Repository**
+###Study Material Repository**
 
 A simple web-based study material repository where users can upload and download study materials.
 
-![Study Material Repository](images/repository.png)
+![Study Material Repository](final.png)
 
 ## Features
 
@@ -19,26 +19,29 @@ A simple web-based study material repository where users can upload and download
 2. Set up the database by executing the SQL scripts provided in the `database` folder.
 3. Configure the database connection in the `config.js` file.
 4. Start the server by running `npm start` or `node app.js`.
-5. Access the application by navigating to `http://localhost:3000` in your web browser.
+5. Access the application by navigating to `http://localhost:5000` in your web browser.
 
 ## Technologies Used
 
 - Node.js
-- Express.js
+- Python
 - MySQL
 - Handlebars (Template Engine)
-- Bootstrap (Front-end Framework)
+- HTML,CSS (Front-end Framework)
 
 ## Screenshots
 
 ### Main Page
-![Main Page](images/main-page.png)
+![Main Page](images/final.png)
 
 ### Upload Study Material
-![Upload Study Material](images/upload.png)
+![Upload Study Material](task.png)
 
-### User Profile
-![User Profile](images/profile.png)
+### Uploaded Successfully 
+![User Profile](uploaded.png)
+
+### Command Prompt
+![Commands](command.png)
 
 ## Contributing
 

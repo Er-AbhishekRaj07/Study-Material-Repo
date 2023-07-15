@@ -34,14 +34,12 @@ A simple web-based study material repository where users can upload and download
 ### Main Page
 ![Main Page](images/final.png)
 
-### Upload Study Material
-![Upload Study Material](task.png)
 
 ### Uploaded Successfully 
-![User Profile](uploaded.png)
+![User Profile](final_upload.png)
 
-### Command Prompt
-![Commands](command.png)
+### Uploaded File
+![Commands](uploaded.png)
 
 ## Contributing
 
@@ -57,7 +55,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 A command prompt application for managing and organizing study materials.
 
-![Command Prompt](images/command-prompt.png)
+![Command Prompt](command.png)
 
 ## Features
 
@@ -74,36 +72,31 @@ A command prompt application for managing and organizing study materials.
 
 ## Usage
 
-- To add a study material:
+- To add a start th project:
   ```
-  study-app add <material-name> <category> <file-path>
-  ```
-
-- To edit a study material:
-  ```
-  study-app edit <material-id>
+  cd  <file-path>
   ```
 
-- To delete a study material:
+- To start the environment:
   ```
-  study-app delete <material-id>
-  ```
-
-- To search for study materials:
-  ```
-  study-app search <keyword>
+  python -m venv env
   ```
 
-## Screenshots
+- To start the flask application:
+  ```
+  .\env\Scripts\Activate.bat
+  ```
 
-### Main Menu
-![Main Menu](images/main-menu.png)
+- To run the application:
+  ```
+  python app.py
+  ```
+- Go to the port number :
+  ---
+  http://127.0.0.1:5000
+  ---
+  
 
-### Add Study Material
-![Add Study Material](images/add-material.png)
-
-### Edit Study Material
-![Edit Study Material](images/edit-material.png)
 
 ## Contributing
 

@@ -32,11 +32,11 @@ A simple web-based study material repository where users can upload and download
 ## Screenshots
 
 ### Main Page
-![Main Page](images/final.png)
+![Main Page](final.png)
 
 
 ### Uploaded Successfully 
-![User Profile](final_upload.png)
+![User Profile](final_uploaded.png)
 
 ### Uploaded File
 ![Commands](uploaded.png)

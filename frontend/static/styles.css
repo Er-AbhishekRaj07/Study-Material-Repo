@@ -24,16 +24,6 @@ header {
   padding: 20px;
 }
 
-
-h1 {
-  font-size: 24px;
-  margin: 0;
-  color: #fff;
-}
-p{
-  color: #fff;
-}
-
 section {
   background-color: #fff;
   padding: 20px;
@@ -45,6 +35,7 @@ section {
 h2 {
   font-size: 18px;
   margin-bottom: 20px;
+  
 }
 
 form {
@@ -92,7 +83,7 @@ li {
 }
 
 a {
-  color: #333;
+  color: #0755d3;
   text-decoration: none;
 }
 
@@ -116,3 +107,26 @@ a {
 .material-card-details {
   flex: 1;
 }
+
+article {
+  background: linear-gradient(
+    to right, 
+    hsl(98 100% 62%), 
+    hsl(204 100% 59%)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+}
+
+h1 {
+  margin: auto;
+  font-size: 8vmin;
+  line-height: 1.1;
+  color: #ffffff;
+}
+p{
+  color: #ccc;
+}
+
+/* Additional styles (scroll down) */
